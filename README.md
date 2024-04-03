@@ -1,16 +1,5 @@
-# capstone_project_sib_kwi
+This application was created using flutter and firebase, where this application was created to provide information about wiaata in Indonesia for tourists.
 
-A new Flutter project.
+The preview of apps: 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![kwi-app](https://github.com/reaperizy/capstone-project-KWI/assets/77084253/2b39c38f-5198-4518-b1db-1bd70c64989a)
